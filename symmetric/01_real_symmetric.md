@@ -1,6 +1,8 @@
 !SLIDE
 # Real Symmetric Cryptography #
 
+.notes Confusion, Diffusion, secret key
+
 !SLIDE bullets incremental
 # Real Symmetric Cryptography #
 
