@@ -5,7 +5,7 @@
 !SLIDE
 # FAIL! #
 
-!SLIDE
+!SLIDE center
 # Electronic Codebook (ECB) #
 ![basic symmetric encryption, aka Electronic CodeBook](ecb.png)
 

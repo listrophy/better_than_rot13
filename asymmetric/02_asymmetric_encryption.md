@@ -1,8 +1,7 @@
 !SLIDE
 # How does it encrypt? #
 
-!SLIDE
-
+!SLIDE center
 ![RSA overview](asymmetric.png)
 
 !SLIDE
@@ -18,7 +17,7 @@
 * e = 0x10001 (frequently)
 * d = e<sup>-1</sup> mod phi(n)
 * C = m<sup>e</sup> mod n
-* p = C<sup>d</sup> mod n
+* m = C<sup>d</sup> mod n
 
 !SLIDE
 # BUT! #

@@ -4,13 +4,12 @@
 * Each block depends on previous block
 * First block depends on INITIALIZATION VECTOR
 
-!SLIDE
+!SLIDE center
 # Chain-Block Cipher #
-
 ![Chain-Block Cipher aka CBC](cbc.png)
 
 !SLIDE bullets incremental
-# ECB Vulnerabilities #
+# CBC Vulnerabilities #
 
 * PEBKAC
 

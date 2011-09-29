@@ -3,6 +3,10 @@
   letter-spacing: -0.14em;
 }
 
+.content > ul > li {
+  margin-left: 0;
+}
+
 .content.code {
   font-family: Inconsolata, Courier New, monospace;
 }

@@ -3,7 +3,6 @@
 
 !SLIDE
 # Symmetric Modes of Encryption #
-
 ## So you want encrypt more than the block size? ##
 
 !SLIDE code
@@ -97,4 +96,3 @@ openssl &lt;tab&gt;&lt;tab&gt;
 <tr><td>aes-256-ecb  </td><td>des-cbc   </td><td>desx-cbc      </td><td>seed-ecb</td></tr>
 <tr><td>aes-256-ofb  </td><td>des-cfb   </td><td>rc2           </td><td>seed-ofb</td></tr>
 </tbody></table>
-

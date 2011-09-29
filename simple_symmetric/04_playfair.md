@@ -1,35 +1,26 @@
 !SLIDE
-
 # Digraph > Monograph #
 
 !SLIDE
-
 # Playfair (Wheatstone) Cipher #
 
 !SLIDE
-
 # Playfair Cipher #
-
 ## Key is passphrase ##
 
 !SLIDE
-
 # "correct horse battery staple" #
 
-!SLIDE
-
+!SLIDE center
 ![XKCD on Password Strength](correct_horse_battery_staple.png)
 
 !SLIDE
-
 # "correct horse battery staple" #
 
 !SLIDE correct_horse_battery_staple
-
 # corethsbaypl #
 
 !SLIDE correct_horse_battery_staple
-
 # corethsbaypl #
 
 <table>
@@ -67,11 +58,9 @@
 </table>
 
 !SLIDE correct_horse_battery_staple
-
 # encrypt: "np" #
 
 !SLIDE correct_horse_battery_staple
-
 # corethsbaypl #
 
 <table>
@@ -109,7 +98,6 @@
 </table>
 
 !SLIDE correct_horse_battery_staple
-
 # encrypt: "np" #
 
 <table>
@@ -149,7 +137,6 @@
 ## output: "if" ##
 
 !SLIDE bullets incremental
-
 # Playfair Vulnerabilities #
 
 * Brute force (600 digraph combinations)

@@ -9,24 +9,20 @@
 * PUBLIC ALGO, secret key
 * Operates on a single block size
 
-!SLIDE
+!SLIDE center
 # Real Symmetric Encryption #
-
 ![basic symmetric encryption](basic_symmetric_cryptography.png)
 
-!SLIDE
+!SLIDE center
 # Real Symmetric Decryption #
-
 ![basic symmetric decryption](basic_symmetric_cryptography-decrypt.png)
 
-!SLIDE
+!SLIDE center
 # Wait a minute... #
-
 ![rot-n again](rot-n_step5.png)
 
-!SLIDE
+!SLIDE center
 # Real Symmetric Cryptography #
-
 ![basic symmetric cryptography](symmetric_is_like_rotn.png)
 
 !SLIDE bullets incremental

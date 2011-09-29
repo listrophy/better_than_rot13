@@ -1,17 +1,13 @@
 !SLIDE
-
 # ROT13 #
 
 !SLIDE
-
 # ROT-n #
 
 !SLIDE
-
 # Caesar Cipher #
 
 !SLIDE bullets incremental
-
 # Caesar Cipher #
 
 * Encrypt by mod-add
@@ -19,7 +15,6 @@
 * Key == "n"
 
 !SLIDE bullets incrementaltable
-
 # Diagram Time! #
 
 <table>
@@ -44,4 +39,3 @@
     <td>data</td>
   </tr>
 </table>
-

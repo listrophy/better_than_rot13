@@ -16,21 +16,18 @@
 !SLIDE
 # Salt does *NOT* Help #
 
-!SLIDE
+!SLIDE center
 # Traditional Hash #
-
 ![Traditional Hash](traditional_hash.png)
 
-!SLIDE
+!SLIDE center
 # Bcrypt Hash #
-
 ![Bcrypt Hash](bcrypt_hash.png)
 
 !SLIDE
 # Message Authentication Code #
 ## Verifies hash via key ##
 
-!SLIDE
+!SLIDE center
 # HMAC #
-
 ![HMAC](hmac_hash.png)

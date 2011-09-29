@@ -4,7 +4,7 @@
 !SLIDE
 # but first... #
 
-!SLIDE
+!SLIDE center
 ![non-implementation agreement](aes_non-implementation_agreement_credited.png)
 
 !SLIDE
@@ -35,5 +35,5 @@
 * Mix columns (MOAR diffusion!)
 * Repeat (10, 12, or 14 rounds)
 
-!SLIDE
+!SLIDE center
 ![AES Crib Sheet](aes_crib_sheet.png)

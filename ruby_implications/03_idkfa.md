@@ -30,3 +30,7 @@
 * Really nice README
 * Some cukes, some specs
 * Some code, but not much
+
+!SLIDE
+# Status: #
+# Currently unusable #

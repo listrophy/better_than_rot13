@@ -1,9 +1,7 @@
 !SLIDE
-
 # Substitution Cipher #
 
 !SLIDE
-
 # Substitution Cipher #
 
 <table style="text-align: center">
@@ -14,7 +12,6 @@
 </table>
 
 !SLIDE
-
 # Extended Substitution Cipher #
 
 <table style="text-align: center">
@@ -26,7 +23,6 @@
 </table>
 
 !SLIDE bullets incremental
-
 # Substitution Cipher Vulnerabilities #
 
 * Letter Frequency Analysis
