@@ -49,15 +49,23 @@ require 'openssl'
     @@@ ruby
     require 'openssl'
 
-    rsa = OpenSSL::PKey::RSA.new(4096) # ...
+    include OpenSSL::PKey
 
-    puts rsa.public_key.to_s
+    alice = RSA.new(4096) # ...
 
-    private_key = rsa.to_pem
+    # alice gives bob 'alice_pub_key'
+
+    pub_key = RSA.new alice_pub_key
+
+    encrypted = pub_key.public_encrypt('foo')
 
 !SLIDE code
 
     @@@ ruby
     require 'openssl'
 
-    rsa = OpenSSL::PKey::RSA.new(private_key)
+    include OpenSSL::PKey
+
+    rsa = RSA.new alice_private_key
+
+    decrypted = rsa.private_decrypt(encrypted)
