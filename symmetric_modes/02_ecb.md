@@ -23,7 +23,7 @@
 * msg = "The weather is: rainyEOM"
 * out = "1234567812345678jdu8xv,9"
 
-!SLIDE
+!SLIDE center
 # Pattern Analysis #
 
 ![Tux](tux.jpg)
