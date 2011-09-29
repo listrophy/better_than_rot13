@@ -50,7 +50,7 @@
 # other craziness #
 
 * p & q not "too" close
-* *p - 1* or *q - 1* have only small prime factors
+* *p - 1* or *q - 1* shouldn't have only small prime factors
 * Wiener's Attack (small "d")
 * Timing Attacks
 * Adaptive Chosen Ciphertext Attack
@@ -60,7 +60,7 @@
 
 * Branch-Prediction Analysis
 * Quantum Prime Factorization (not yet implemented)
-* Small *n* (use 2048, minimum!)
+* Small *n* == bad (use 2048, minimum!)
 
 !SLIDE
 # Moral #
