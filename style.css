@@ -1,0 +1,111 @@
+.content {
+  font-family: DINPro;
+  letter-spacing: -0.14em;
+}
+
+.content.code {
+  font-family: Inconsolata, Courier New, monospace;
+}
+.content.code ul li {
+  text-align: left;
+  margin-left: 1em;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+h1 {
+  font-family: Knockout, Helvetica, Arial, sans-serif;
+  letter-spacing: 0px;
+}
+
+h1 { text-transform: uppercase; }
+h2, h3, h4, h5, h6 { text-transform: lowercase; }
+
+h1 { font-size: 7em; }
+
+.smallest { font-size: 0.5em; }
+
+.ol ol, .smbullets ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.ol ol > li, .smbullets ul > li {
+  list-style: none;
+  text-align: center;
+  padding-bottom: 0.4em;
+}
+
+.content.title_slide::after {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  content: url(bendyworks-logo.png);
+}
+
+.content table {
+  width: 80%;
+  font-size: 3em;
+  margin: 0 auto;
+}
+
+.incrementaltable table td {
+  padding-bottom: 1em !important;
+}
+
+.incrementaltable table tr td:first-child {
+  text-align: right;
+  padding-right: 0.5em;
+}
+
+.boxed {
+  border: 1px solid black;
+  padding: 0.2em;
+}
+
+.circled {
+  border: 1px solid black;
+  padding: 0.2em;
+  -webkit-border-radius: 300px;
+  -moz-border-radius: 300px;
+  border-radius: 300px;
+}
+
+#rotn-canvas {
+  margin: 0 auto;
+}
+
+.correct_horse_battery_staple table {
+  width: auto;
+  text-align: center;
+}
+
+.correct_horse_battery_staple td {
+  width: 1.2em;
+}
+
+.greenbg {
+  background-color: green;
+  border: 2px black solid;
+  color: white;
+}
+
+.bluebg {
+  background-color: blue;
+  border: 2px black solid;
+  color: white;
+}
+
+sup {
+  font-size: 80%;
+  vertical-align: super;
+}
+
+sub {
+  font-size: 80%;
+  vertical-align: sub;
+}
+
+.table_with_head thead td {
+  padding-bottom: 1em;
+}

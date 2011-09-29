@@ -1,0 +1,13 @@
+{ "name": "Better Than ROT13"
+, "sections":
+  [ {"section": "intro"}
+  , {"section": "simple_symmetric"}
+  , {"section": "symmetric"}
+  , {"section": "symmetric_modes"}
+  , {"section": "hashing"}
+  , {"section": "asymmetric"}
+  , {"section": "ssl"}
+  , {"section": "ruby_implications"}
+  , {"section": "outro"}
+  ]
+}
