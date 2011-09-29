@@ -26,4 +26,5 @@
 !SLIDE
 # Pattern Analysis #
 
-* Images of Tux go here
+![Tux](tux.jpg)
+![Tux encrypted with ECB](tux_ecb.jpg)

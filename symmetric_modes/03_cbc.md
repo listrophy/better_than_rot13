@@ -34,7 +34,8 @@
 !SLIDE
 # Pattern Analysis #
 
-* Images of Tux go here
+![Tux](tux.jpg)
+![Tux encrypted with CBC](tux_cbc.jpg)
 
 !SLIDE
 # MORAL #
